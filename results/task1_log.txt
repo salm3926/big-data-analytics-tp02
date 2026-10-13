@@ -1,0 +1,24 @@
+TASK 1: TRADITIONAL PANDAS
+Loading the entire CSV into RAM...
+
+STATUS: SUCCESS
+Rows loaded: 55,423,856
+Columns: 8
+Execution time: 118.42s
+
+
+--- TASK 1 FINAL RESULTS ---
+
+Status: SUCCESS
+Dataset: NYC Taxi Fare Prediction
+
+Dataset size: 5.31 GiB
+Total RAM: 15.66 GiB
+
+Execution time: 120.49 seconds
+Peak RAM: 10.86 GiB
+Peak Private Memory: 19.10 GiB
+
+Exit code: 0
+
+----------------------------

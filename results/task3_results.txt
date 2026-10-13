@@ -1,0 +1,15 @@
+
+TASK 3: DASK DATAFRAME
+------------------------------
+Status: SUCCESS
+Total rows: 55,423,856
+Partitions: 89
+Block size: 64MB
+
+Total fare: 628786173.74
+Valid fares: 55,423,856
+Average fare: 11.3450
+
+Execution time: 67.22 seconds
+Peak RAM: 0.76 GiB
+------------------------------

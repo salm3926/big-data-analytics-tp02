@@ -1,0 +1,4 @@
+Method,Execution_Time_Seconds,Peak_RAM_GiB
+Standard Pandas,120.49,10.86
+Pandas Chunking,80.66,0.16
+Dask DataFrame,67.22,0.76
